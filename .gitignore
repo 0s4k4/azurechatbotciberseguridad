@@ -1,0 +1,20 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de entorno
+.env
+.env.local
+
+# Cachés y compilaciones
+.next/
+dist/
+
+# Logs
+*.log
+
+# Configuración del sistema operativo
+.DS_Store
+
+# Archivos relacionados con Tailwind y PostCSS generados automáticamente
+tailwind.config.js
+postcss.config.js
